@@ -2,4 +2,3 @@
 -mantis
 -wordpress
 -sqldelta
-Thank for your attention
